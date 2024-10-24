@@ -6,6 +6,6 @@ public class Main {
         int weight = 98;
 
         int myIndex = service.calculate(height, weight);
-        System.out.println(" " + myIndex);
+        System.out.println("ИМТ " + myIndex);
     }
 }
